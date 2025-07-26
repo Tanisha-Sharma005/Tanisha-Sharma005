@@ -10,7 +10,7 @@
 - 🌱 Exploring version control with *Git & GitHub*, and contributing to open source soon  
 - 💬 Ask me about *C programs, **basic Git, and **Unity Game Basics*  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanisha-sharma-984b3b332/)
-- 🎵 Fun fact: I love *singing* and *Honey Chilli Potatoes* 🍯🌶  
+- 🎵 Fun fact: I love *singing*  
 
 ---
 
