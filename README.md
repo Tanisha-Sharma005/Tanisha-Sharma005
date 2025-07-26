@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on mastering *C, **C++, **DSA, and **Linux (RHCSA)*  
 - 🌱 Exploring version control with *Git & GitHub*, and contributing to open source soon  
 - 💬 Ask me about *C programs, **basic Git, and **Unity Game Basics*  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com) (Update this if you have your LinkedIn link)  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanisha-sharma-984b3b332/)
 - 🎵 Fun fact: I love *singing* and *Honey Chilli Potatoes* 🍯🌶  
 
 ---
@@ -25,8 +25,6 @@
 | Function Programs    | Sum, factorial, prime using functions  |
 | Structure Programs   | Store/display student, employee info   |
 | Pointer Programs     | Pointer basics and pointer to array    |
-| File Handling        | Create, read, write, append text files |
-| Recursion Programs   | Factorial, Fibonacci, GCD using recur. |
 
 ---
 
@@ -40,7 +38,7 @@
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### 📈 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanisha-Sharma005&show_icons=true&theme=tokyonight" width="400"/>
