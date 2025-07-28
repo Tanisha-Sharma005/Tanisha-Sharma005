@@ -1,5 +1,5 @@
-<!-- Profile Header Banner (optional) -->
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Tanisha%20Sharma&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC++%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
+<!-- Profile Header Banner -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Tanisha%20Sharma&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC%2B%2B%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
 
 <h1 align="center">Hi 👋, I'm Tanisha Sharma</h1>
 <h3 align="center">A passionate B.Tech student from Hindaun City, Rajasthan</h3>
