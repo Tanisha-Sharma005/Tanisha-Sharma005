@@ -1,58 +1,80 @@
+<!-- Profile Header Banner (optional) -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Tanisha%20Sharma&fontSize=40&fontAlign=center&desc=B.Tech%20Student%20|%20C%2FC++%20%7C%20GitHub%20Learner&descSize=20&descAlign=center"/>
+
 <h1 align="center">Hi 👋, I'm Tanisha Sharma</h1>
-<h3 align="center">A Passionate B.Tech Student from Hindaun City (RTU, Kota)</h3>
+<h3 align="center">A passionate B.Tech student from Hindaun City, Rajasthan</h3>
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 I'm currently a 3rd Year B.Tech student  
-- 🔭 I’m currently working on mastering *C, **C++, **DSA, and **Linux (RHCSA)*  
-- 🌱 Exploring version control with *Git & GitHub*, and contributing to open source soon  
-- 💬 Ask me about *C programs, **basic Git, and **Unity Game Basics*  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/tanisha-sharma-984b3b332/)
-- 🎵 Fun fact: I love *singing*  
-
----
-
-### 🗂 My C Programming Projects
-
-| Folder 📁              | Description                            |
-|------------------------|----------------------------------------|
-| Arithmetic Programs  | Basic operations like addition, avg    |
-| Pattern Programs     | Star, number, and triangle patterns    |
-| Array Programs       | Searching, sorting, reverse, sum etc.  |
-| String Programs      | Palindrome, reverse, length, compare   |
-| Function Programs    | Sum, factorial, prime using functions  |
-| Structure Programs   | Store/display student, employee info   |
-| Pointer Programs     | Pointer basics and pointer to array    |
+- 🎓 3rd Year B.Tech Student at RTU, Kota  
+- 💻 Learning *C, **C++, **DSA, and **Linux (RHCSA)*  
+- 🔧 Exploring *Git, **GitHub*, and real-world coding  
+- 🎮 Trying Unity Game Development (Basics)  
+- 🎤 Fun Fact: I love *singing* 
 
 ---
 
-### 🛠 Tools & Tech
+## 🛠 Languages and Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📈 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha-Sharma005&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-Sharma005&layout=compact&theme=tokyonight" width="300"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 📁 My C Programming Projects
 
-- 🔗 [LinkedIn][(https://www.linkedin.com/in/tanisha-sharma-984b3b332/)
-- 📮 Gmail: [tanishaasharma20@gmail.com]  
-- 🎯 Goals: Build logic skills, contribute to open-source, and land a tech internship 💼
+Here are some of my beginner to intermediate C programming projects, organized folder-wise:
+
+- 🔢 [Arithmetic Programs](https://github.com/Tanisha-Sharma005/Arithmetic-Programs)  
+- 🔁 [Pattern Programs](https://github.com/Tanisha-Sharma005/Pattern-Programs)  
+- 🔣 [Array Programs](https://github.com/Tanisha-Sharma005/Array-Programs)  
+- 🔤 [String Programs](https://github.com/Tanisha-Sharma005/String-Programs)  
+- 🧮 [Function Programs](https://github.com/Tanisha-Sharma005/Function-Programs)  
+- 🏗 [Structure & Union Programs](https://github.com/Tanisha-Sharma005/Structure-Union-Programs)  
+- 🧭 [Pointer Programs](https://github.com/Tanisha-Sharma005/Pointer-Programs)  
+- 📂 [File Handling Programs](https://github.com/Tanisha-Sharma005/File-Handling-Programs)  
+- 🔄 [Recursion Programs](https://github.com/Tanisha-Sharma005/Recursion-Programs)
+
+📌 I’m regularly updating these repositories. Stay tuned for more!
 
 ---
 
-> ⭐ Don’t forget to check out my projects. Feedbacks are always welcome!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanisha-Sharma005&show_icons=true&theme=calm" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanisha-Sharma005&layout=compact&theme=calm" width="45%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanisha-Sharma005&theme=tokyonight&column=6"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tanisha-sharma-984b3b332/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tanisha-Sharma005)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tanisha-Sharma005&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+<p align="center">Thanks for visiting! ⭐ Keep learning, keep growing!</p>
+
+<!-- Profile Footer Banner -->
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=120&section=footer"/>
