@@ -74,7 +74,7 @@ Here are some of my beginner to intermediate C programming projects, organized f
   <img src="https://komarev.com/ghpvc/?username=Tanisha-Sharma005&style=flat-square&color=blue" alt="profile views"/>
 </p>
 
-<p align="center">Thanks for visiting! Don’t forget to ⭐ star the repositories if you find them useful 😊</p>
+<p align="center">📌 Like my work? ⭐ Star the repo or follow me for more beginner-friendly content! 😊</p>
 
 <!-- Profile Footer Banner -->
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=120&section=footer"/>
