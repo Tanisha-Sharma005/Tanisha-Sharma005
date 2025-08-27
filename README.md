@@ -32,16 +32,18 @@
 
 Here are some of my beginner to intermediate C programming projects, organized folder-wise:
 
-- 🔢 [Arithmetic Programs](https://github.com/Tanisha-Sharma005/Arithmetic-Programs)  
-- 🔁 [Pattern Programs](https://github.com/Tanisha-Sharma005/Pattern-Programs)  
-- 🔣 [Array Programs](https://github.com/Tanisha-Sharma005/Array-Programs)  
-- 🔤 [String Programs](https://github.com/Tanisha-Sharma005/String-Programs)  
-- 🧮 [Function Programs](https://github.com/Tanisha-Sharma005/Function-Programs)  
-- 🏗 [Structure & Union Programs](https://github.com/Tanisha-Sharma005/Structure-Union-Programs)  
-- 🧭 [Pointer Programs](https://github.com/Tanisha-Sharma005/Pointer-Programs)  
-- 📂 [File Handling Programs](https://github.com/Tanisha-Sharma005/File-Handling-Programs)  
-- 🔄 [Recursion Programs](https://github.com/Tanisha-Sharma005/Recursion-Programs)
+📘 [Arithmetic Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Arithmetic)  
+📘 [Pattern Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Pattern%20Programs)  
+📘 [Array Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Array%20Programs)  
+📘 [String Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/String%20Programs)  
+📘 [Function Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Function%20Program)  
+📘 [Structure & Union Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Structure%20and%20Union%20Programs)  
+📘 [Pointer Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Pointer%20Programs)  
+📘 [File Handling Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/File_Handling_Programs)  
+📘 [Recursion Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Recursion_Programs)  
+📘 [Miscellaneous Programs](https://github.com/Tanisha-Sharma005/Beginner-C-Programs/tree/main/Miscellaneous_Programs)  
 
+⭐ I'm regularly updating these repositories. Stay tuned for more!
 📌 I’m regularly updating these repositories. Stay tuned for more!
 
 ---
